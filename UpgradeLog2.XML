@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Invoice lookup">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Invoice lookup.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Invoice lookup.suo">
+</Property><Property Name="Date" Value="16 February 2013">
+</Property><Property Name="Time" Value="12:43">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Invoice lookup.sln" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Invoice lookup.suo" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup.suo">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Invoice lookup.vbproj">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Invoice lookup.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Form1.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Form1.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\SL_invoice_accountDataSet.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\SL_invoice_accountDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\app.config" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\app.config">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup_TemporaryKey.pfx" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Invoice lookup_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Application.myapp" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\SL_invoice_accountDataSet.xsc" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\SL_invoice_accountDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\SL_invoice_accountDataSet.xsd" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\SL_invoice_accountDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\SL_invoice_accountDataSet.xss" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\SL_invoice_accountDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\My Project\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\ccowpe\Desktop\Invoice lookup\Backup\Invoice lookup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Invoice lookup.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Invoice lookup.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Invoice lookup" Source="Invoice lookup\Invoice lookup.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
